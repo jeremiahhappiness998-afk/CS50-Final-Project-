@@ -1,0 +1,34 @@
+
+{
+    "manifest_version": 3,
+    "name": "HGJ AD-BLOCKER PRO",
+    "version": "2.0",
+    "description": "HGJ AD-BLOCKER PRO is a chrome extension for blocking unwanted ADS and popups that disrupt your work online",
+    "icons": {
+        "128": "Software.ico",
+        "16": "Software.ico"
+    },
+    "permissions": [
+        "webRequest",
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}

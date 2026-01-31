@@ -1,0 +1,8 @@
+AD-Blocker/
+│
+├── content.js
+├── manifest.json
+├── popup.html
+├── software.ico
+├── style.css
+│-- background.js
