@@ -1,11 +1,11 @@
 # PROJECT NAME/TITLE:
 HGJ AD-BLOCKER PRO
 
-By HAPPINESS GODKNOWS JEREMIAH
-GITHUB USERNAME; jeremiahhappiness998-afk
-EDX USERNAME ; happiness_868
+* By HAPPINESS GODKNOWS JEREMIAH
+* GITHUB USERNAME; jeremiahhappiness998-afk
+* EDX USERNAME ; happiness_868
 
-#### Video Demo:  <youtube>
+#### Video Demo:  <https://youtu.be/2QN3dmDYtIM>
 #### Description: "HGJ AD-BLOCKER PRO is a chrome extension for blocking unwanted ADS and IN-ADS in an Easy-list  that disrupt your work online"
 
 
@@ -38,17 +38,17 @@ HGJ AD-Blocker PRO is an AD blocker that block ads based on Easy-lists elements 
 ## FOLDER CONTENT OF THE AD/FOLDER STRUCTURE:
 AD-Blocker/
 │
-├── content.js(the ad-blocking functionality)
-├── manifest.json ()
-├── popup.html (the extension default popup)
-├── software.ico (icon of the file)
-├── style.css (just for design of the default popup)
-│-- background.js (for background service worker)
+├── content.js
+├── manifest.json 
+├── popup.html 
+├── software.ico 
+├── style.css 
+│-- background.js 
 
 ### USE OF THE FILES IN THE FOLDER
 
 |__content.js(the ad-blocking functionality)
-├── manifest.json (FOR THE EXTENSION COMPATIBILITY WITH CHROME)
+├── manifest.json (FOR THE EXTENSION COMPATIBILITY WITH CHROME/BROWSER)
 ├── popup.html (the extension default popup)
 ├── software.ico (icon of the file)
 ├── style.css (just for design of the default popup)
@@ -104,5 +104,5 @@ THIS IS MY FINAL PROJECT FOR CS50
 
 ### CONCLUSION:
 THIS SHOULD HELP REMOVING AD COMPLETELY THROUGH THE TWO BACKGROUND AND CONTENT SCRIPTS
-GITHUB USERNAME; jeremiahhappiness998-afk
-EDX USERNAME ; happiness_868
+* GITHUB USERNAME; jeremiahhappiness998-afk
+* EDX USERNAME ; happiness_868
