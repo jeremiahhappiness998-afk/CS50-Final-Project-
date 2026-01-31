@@ -50,13 +50,3 @@ If you want to use a service worker, you can specify it like this:
     "service_worker": "background.js"
 }
 This tells the extension to use background.js as the service worker. Do you have a specific background script you want to include
-
-Title: Lift up your head o ye gates
-
-Psalm 24:7-10
-Isaiah 6:1-5(the post of the door will move in your life at worship cry. AMEN)
-
-Act 16:26(all doors were opened, not one door was left closed when paul and sailas [prayed])
-COUNSEL : always be deliberate and intentional
-          trances and encounters only happen for the focused
-          Be Tenacious (do not move till the closing)
