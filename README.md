@@ -1,5 +1,5 @@
 # PROJECT NAME/TITLE:
-HGJ AD-Blocker PRO
+HGJ AD-BLOCKER PRO
 
 By HAPPINESS GODKNOWS JEREMIAH
 GITHUB USERNAME; jeremiahhappiness998-afk
@@ -14,7 +14,7 @@ EDX USERNAME ; happiness_868
 HGJ AD-Blocker PRO is an AD blocker that block ads based on Easy-lists elements in a script file called content.js, it blocks in element ads and ads on elements
 
 # INSTALLATION:
-* My Extension is not PUBLISHED so you can DOWNLOAD it from my GITHUB repository link: https://www.github.com/<repository_name>
+* My Extension is not PUBLISHED so you can DOWNLOAD it from my GITHUB repository link: https://github.com/jeremiahhappiness998-afk/CS50-Final-Project-
 * Step 1: After downloading, Unzip it and then GO to your chrome click on the three dots beside your profile picture <NOTE: only on the PC not yet on mobile phone>
 * Step 2: After clicking the three dots click on the 'Extensions' button and then turn on DEVELOPER MODE (without this you will cannot 'load unpacked') 
 * Step 3: then click on the 'load unpacked' button , then it will lead you to select the folder for loading (Please select the folder that contains the unzipped file of the AD-BLOCKER)
@@ -38,12 +38,21 @@ HGJ AD-Blocker PRO is an AD blocker that block ads based on Easy-lists elements 
 ## FOLDER CONTENT OF THE AD/FOLDER STRUCTURE:
 AD-Blocker/
 │
-├── content.js
-├── manifest.json
-├── popup.html
-├── software.ico
-├── style.css
-│-- background.js
+├── content.js(the ad-blocking functionality)
+├── manifest.json ()
+├── popup.html (the extension default popup)
+├── software.ico (icon of the file)
+├── style.css (just for design of the default popup)
+│-- background.js (for background service worker)
+
+### USE OF THE FILES IN THE FOLDER
+
+|__content.js(the ad-blocking functionality)
+├── manifest.json (FOR THE EXTENSION COMPATIBILITY WITH CHROME)
+├── popup.html (the extension default popup)
+├── software.ico (icon of the file)
+├── style.css (just for design of the default popup)
+│-- background.js (for background service worker)
 
 
 ## ADS THAT CAN BE BLOCKED
