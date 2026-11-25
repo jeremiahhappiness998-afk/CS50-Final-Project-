@@ -1,9 +1,9 @@
 
         body{
-            /* this width and height value suitable for an AD-Blocker extension ORIGIN: From chatgpt */
+            /* this width and height value suitable for an AD-Blocker extension ORIGIN: chatgpt NOTE: not copy and paste. */
             width: 200px;
             height: 100px;
-            background-color: black;
+            background-color: rgb(0, 0, 0);
             color: aliceblue;
             font-family: Arial, Helvetica, sans-serif;
             font-weight: bolder;

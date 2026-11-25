@@ -1,12 +1,11 @@
-# PROJECT NAME/TITLE:
-HGJ AD-BLOCKER PRO
+# HGJ AD-BLOCKER PRO
 
 * By HAPPINESS GODKNOWS JEREMIAH
 * GITHUB USERNAME; jeremiahhappiness998-afk
-* EDX USERNAME ; happiness_868
+* EDX USERNAME; happiness_868
 
 #### Video Demo:  <https://youtu.be/2QN3dmDYtIM>
-#### Description: "HGJ AD-BLOCKER PRO is a chrome extension for blocking unwanted ADS and IN-ADS in an Easy-list  that disrupt your work online"
+#### Description: "HGJ AD-BLOCKER PRO is a chrome extension for blocking unwanted ADS and Embedded IN-ADS in an Easy-list  that disrupt your work online"
 
 
 
@@ -14,7 +13,7 @@ HGJ AD-BLOCKER PRO
 HGJ AD-Blocker PRO is an AD blocker that block ads based on Easy-lists elements in a script file called content.js, it blocks in element ads and ads on elements
 
 # INSTALLATION:
-* My Extension is not PUBLISHED so you can DOWNLOAD it from my GITHUB repository link: https://github.com/jeremiahhappiness998-afk/CS50-Final-Project-
+* My Extension is not PUBLISHED on chrome Web-store so you can only DOWNLOAD it from my GITHUB repository link: https://github.com/jeremiahhappiness998-afk/CS50-Final-Project-
 * Step 1: After downloading, Unzip it and then GO to your chrome click on the three dots beside your profile picture <NOTE: only on the PC not yet on mobile phone>
 * Step 2: After clicking the three dots click on the 'Extensions' button and then turn on DEVELOPER MODE (without this you will cannot 'load unpacked') 
 * Step 3: then click on the 'load unpacked' button , then it will lead you to select the folder for loading (Please select the folder that contains the unzipped file of the AD-BLOCKER)
@@ -24,7 +23,7 @@ HGJ AD-Blocker PRO is an AD blocker that block ads based on Easy-lists elements 
 ### Steps: on default it is  automatically activated on any site but if you want it to be activated only when clicked follow this instructions;
 * step: Left click on the extension bar in your chrome upper-nav bar and then PIN the extension to the bar and after pinned Right click on the extension itself and then click on 'This can read and change site data' and you can select the activation techniques
 * NOTE THE BUTTONS IN THE EXTENSION ARE NOT YET FUNCTIONAL AS SPECIFIED IN THE 'FUTURE ADVANCEMENT' BUT THE EXTENSION WORKS ACCORDING TO YOUR ACTIVATION SETTINGS
-# PERMISSION:
+# PERMISSIONS:
 * NOTE: this permisions are default as coded in the manifest.json
 * 1. It can access all sites 
 * 2. It can access all urls
@@ -32,8 +31,9 @@ HGJ AD-Blocker PRO is an AD blocker that block ads based on Easy-lists elements 
 
 
 ## ASSISTANT:
-* CODNG ASSISTANT: Meta AI, CS50.ai, 
+* CODNG ASSISTANT: Meta AI, CS50.ai, Chatgpt.
 * research: google gemini
+ NOTE: not copy and paste; All the AIs were used  to know something and lines of code when stucked.
 
 ## FOLDER CONTENT OF THE AD/FOLDER STRUCTURE:
 AD-Blocker/
@@ -43,14 +43,14 @@ AD-Blocker/
 ├── popup.html 
 ├── software.ico 
 ├── style.css 
-│-- background.js 
+│__ background.js 
 
 ### USE OF THE FILES IN THE FOLDER
 
 |__content.js(the ad-blocking functionality)
 ├── manifest.json (FOR THE EXTENSION COMPATIBILITY WITH CHROME/BROWSER)
 ├── popup.html (the extension default popup)
-├── software.ico (icon of the file)
+├── software.ico (icon of the AD-BLOCKER)
 ├── style.css (just for design of the default popup)
 │-- background.js (for background service worker)
 
@@ -105,4 +105,4 @@ THIS IS MY FINAL PROJECT FOR CS50
 ### CONCLUSION:
 THIS SHOULD HELP REMOVING AD COMPLETELY THROUGH THE TWO BACKGROUND AND CONTENT SCRIPTS
 * GITHUB USERNAME; jeremiahhappiness998-afk
-* EDX USERNAME ; happiness_868
+* EDX USERNAME; happiness_868
