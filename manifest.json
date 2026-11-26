@@ -12,13 +12,14 @@
         "alarms"
     ],
     "icons": {
-        "16": "Software.png",
-        "128": "Software.png"
-        
+        "16": "icons/icon_16.png",
+        "32": "icons/icon_32.png",
+        "48": "icons/icon_48.png",
+        "128": "icons/icon_128.png"
     },
     "action": {
         "default_popup": "popup.html",
-        "default_icon": ""
+        "default_icon": "icons/icon_16.png"
     },
     "background": {
         "service_worker": "background.js"
