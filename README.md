@@ -13,7 +13,7 @@
 HGJ AD-Blocker PRO is an AD blocker that block ads based on Easy-lists elements in a script file called content.js, it blocks in element ads and ads on elements
 
 # INSTALLATION:
-* My Extension is not PUBLISHED on chrome Web-store so you can only DOWNLOAD it from my GITHUB repository link: https://github.com/jeremiahhappiness998-afk/CS50-Final-Project-
+* My Extension is not PUBLISHED on chrome Web-store so you can only DOWNLOAD it from my GITHUB repository link: https://github.com/jeremiahhappiness998-afk/HGJ_AD-BLOCKER
 * Step 1: After downloading, Unzip it and then GO to your chrome click on the three dots beside your profile picture <NOTE: only on the PC not yet on mobile phone>
 * Step 2: After clicking the three dots click on the 'Extensions' button and then turn on DEVELOPER MODE (without this you will cannot 'load unpacked') 
 * Step 3: then click on the 'load unpacked' button , then it will lead you to select the folder for loading (Please select the folder that contains the unzipped file of the AD-BLOCKER)
@@ -39,11 +39,14 @@ HGJ AD-Blocker PRO is an AD blocker that block ads based on Easy-lists elements 
 AD-Blocker/
 │
 ├── content.js
-├── manifest.json 
-├── popup.html 
+├── manifest.json
+├── popup.html
 ├── software.png
-├── style.css 
-│__ background.js 
+├── style.css
+│-- background.js
+|__ icons/
+    |__Software.png
+
 
 ### USE OF THE FILES IN THE FOLDER
 
