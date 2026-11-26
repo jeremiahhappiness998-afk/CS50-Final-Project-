@@ -50,3 +50,5 @@ If you want to use a service worker, you can specify it like this:
     "service_worker": "background.js"
 }
 This tells the extension to use background.js as the service worker. Do you have a specific background script you want to include
+
+commit message: adding more permissions and repairing the icon
