@@ -41,7 +41,7 @@ AD-Blocker/
 ├── content.js
 ├── manifest.json 
 ├── popup.html 
-├── software.ico 
+├── software.png
 ├── style.css 
 │__ background.js 
 
